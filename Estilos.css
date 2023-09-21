@@ -10,7 +10,7 @@ body {
     padding: 0;
 }
 body h1{
-    color:black
+    color:#ffffff
 }
 
 body section Img{
@@ -25,7 +25,7 @@ body section Img{
     }
 
 header {
-    background-color:rgb(140, 199, 84);
+    background-color:#ff6a00ff;
     color: #240ee9;
     text-align: center;
     padding: 20px;
@@ -36,7 +36,7 @@ nav ul.menu {
     list-style-type: none;
     margin: 0;
     padding: 10px;
-    background-color: rgb(29, 22, 22);
+    background-color: #ccc;
     text-align: center;
 } 
 
