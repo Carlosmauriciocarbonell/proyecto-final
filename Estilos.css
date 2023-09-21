@@ -25,19 +25,20 @@ body section Img{
     }
 
 header {
-    background-color:#DCF8C6;
-    color: #fff;
+    background-color:rgb(140, 199, 84);
+    color: #240ee9;
     text-align: center;
     padding: 20px;
 }
 
 nav ul.menu {
+   
     list-style-type: none;
     margin: 0;
-    padding: 0;
-    background-color: #444;
+    padding: 10px;
+    background-color: rgb(29, 22, 22);
     text-align: center;
-}
+} 
 
     nav ul.menu li {
         display: inline-block;
@@ -51,7 +52,7 @@ nav ul.menu {
         }
 
 section.seccion {
-    margin: 40px;
+    margin: 0px;
     padding: 20px;
     background-color: #f4f4f4;
     border: 1px solid #ddd;
@@ -67,4 +68,12 @@ span{
 
     
     margin-left: 5px;
+}
+
+
+
+body .cajasuperior{
+
+    position: fixed;
+    width: 100%;
 }
