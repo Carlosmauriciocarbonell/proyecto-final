@@ -47,7 +47,7 @@ nav ul.menu {
 
         nav ul.menu li a {
             text-decoration: none;
-            color: #fff;
+            color: #424141;
             font-weight: bold;
         }
 
@@ -76,4 +76,44 @@ body .cajasuperior{
 
     position: fixed;
     width: 100%;
+}
+
+
+.ICON{
+    
+    display: inline-block;
+    background-color: #1da1f2;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+.icon-facebook {
+    
+    width: 40px;
+    height: 40px;
+    margin-right: 20px;
+
+
+}
+
+.icon-whatsaap{
+
+    width: 40px;
+    height: 40px; 
+    margin-right: 20px;
+
+}
+
+
+.icon-instagram{
+
+    width: 40px;
+    height: 40px; 
+    margin-right: 20px;
+
 }
