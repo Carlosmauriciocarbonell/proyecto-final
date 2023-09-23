@@ -8,6 +8,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+   background-color: #EFEFEF;
 }
 body h1{
     color:#ffffff
@@ -25,8 +26,7 @@ body section Img{
     }
 
 header {
-    background-color:#ff6a00ff;
-    color: #240ee9;
+    background-color:#1072f3b2;
     text-align: center;
     padding: 20px;
 }
@@ -54,7 +54,7 @@ nav ul.menu {
 section.seccion {
     margin: 0px;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color:#8f99f1 ;
     border: 1px solid #ddd;
 }
 
@@ -81,7 +81,7 @@ body .cajasuperior{
 
  .ICON{
     text-align:center;
-    background-color: #1da1f2;
+    background-color: #87888a;
     width: auto;
        height: auto;
     
@@ -113,3 +113,23 @@ body .cajasuperior{
     margin-right: 20px;
 
 }
+
+
+.arrow {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 24px;
+    padding: 10px;
+    background-color: #7aadec;
+    color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+  }
+  
+  /* Estilos para la flecha hacia arriba */
+  .up {
+    display: block;
+  }
+  
