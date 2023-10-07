@@ -63,7 +63,7 @@ nav ul.menu {
         /*aqui va el color de las secciones*/
 section.seccion {
     margin: 0px;
-    padding: 05px;
+     padding: 5px;
 
    background-color: #f1f3f5;
     border: 01px solid #e2dada;
@@ -145,4 +145,8 @@ body .cajasuperior{
 
 .BRAN{
 margin-left: 20px;
+}
+#plaUne{
+
+   background-color: #e5f1e3; 
 }
