@@ -66,13 +66,15 @@ ul {
     margin-left: 20px;
 }
 
+/*
+
 span{
 
     
     margin-left: 10px;
 }
 
-
+*/
 
 body .cajasuperior{
 
@@ -140,4 +142,11 @@ margin-left: 20px;
 #plaUne{
   background-color: #ccc;
 
+}
+
+
+#plaUne ul li span {
+  
+  margin: left 500px;
+  display: inline-block;
 }
