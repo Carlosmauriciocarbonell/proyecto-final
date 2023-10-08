@@ -70,12 +70,14 @@ ul {
 
 
 */
+@media  (min-width: 668px){
+    
 
 body .cajasuperior{
 
     position: fixed;
     width: 100%;
-}
+} }
 
 @media (min-width: 768px) {
     body {
