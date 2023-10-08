@@ -70,14 +70,14 @@ ul {
 
 
 */
-@media  (min-width: 668px){
+
     
 
 body .cajasuperior{
 
     position: fixed;
     width: 100%;
-} }
+} 
 
 @media (min-width: 768px) {
     body {
@@ -177,14 +177,7 @@ margin-left: 20px;
 }
 
 /* para dispositivos moviles*/
-@media (max-width: 767px) {
-    header {
-        font-size: 24px;
-    }
-}
-
-/* Estilos para el texto dentro del header en ordenadores */
-@media (min-width: 768px) {
+@media (min-width: 767px) {
     header {
         font-size: 17px;
     }
