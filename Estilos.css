@@ -1,8 +1,3 @@
-
-
-
-
-
 /* Estilos generales 
 body {
     font-family: Arial, sans-serif;
@@ -10,98 +5,92 @@ body {
     padding: 0;
    background-color: #817373;
 }*/
-body h1{
-    color:#ffffff
+body h1 {
+    color: #ffffff
 }
 
-body section Img{
+body section Img {
     padding-left: 10px;
-   
-    width:400px;
-    height:300px
+
+    width: 400px;
+    height: 300px
 }
-    
-    
-@media (min-width: 600px) {
-.ceci {
-    height: 400px;
-    background-image: url(https://img.freepik.com/fotos-premium/taza-cafe-forma-corazon-humo-granos-cafe-saco-arpillera-sobre-fondo-madera-vieja_126277-302.jpg?w=740);
-    background-size: cover;
-    color: rgb(240, 230, 230);
-    background-position: center;
-    background-color: rgba(0, 0, 0, 5);
-}}
+
+
+@media (min-width: 550px) {
+    .ceci {
+        height: 400px;
+        background-image: url(https://img.freepik.com/fotos-premium/taza-cafe-forma-corazon-humo-granos-cafe-saco-arpillera-sobre-fondo-madera-vieja_126277-302.jpg?w=740);
+        background-size: cover;
+        color: rgb(240, 230, 230);
+        background-position: center;
+        background-color: rgba(0, 0, 0, 5);
+    }
+}
 
 nav ul.menu {
-   
+
     list-style-type: none;
     margin: 0;
     padding: 10px;
     background-color: #ccc;
     text-align: center;
-} 
+}
 
-    nav ul.menu li {
-        display: inline-block;
-        margin-right: 20px;
-    }
+nav ul.menu li {
+    display: inline-block;
+    margin-right: 20px;
+}
 
-        nav ul.menu li a {
-            text-decoration: none;
-            color: #424141;
-            font-weight: bold;
-        }
-        /*aqui va el color de las secciones*/
+nav ul.menu li a {
+    text-decoration: none;
+    color: #424141;
+    font-weight: bold;
+}
+
+/*aqui va el color de las secciones*/
 section.seccion {
     margin: 0px;
-     padding: 5px;
-
-
+    padding: 5px;
     border: 01px solid #e2dada;
 }
 
-/* Estilos específicos para secciones */
+
 ul {
     list-style-type: disc;
     margin-left: 20px;
 }
 
-/*
 
-
-*/
-
-    
-
-body .cajasuperior{
+body .cajasuperior {
 
     position: fixed;
     width: 100%;
-} 
+}
 
 @media (min-width: 768px) {
     body {
         font-family: Arial, sans-serif;
         margin: 0;
         padding: 0;
-       background-color: #817373;
+        background-color: #817373;
     }
 
 
 }
 
 
- .ICON{
-    text-align:center;
+.ICON {
+    text-align: center;
     background-color: #87888a;
     width: auto;
-       height: auto;
-    
+    height: auto;
+
 }
 
 
 .icon-facebook {
-    
+
     width: 40px;
     height: 40px;
     margin-right: 20px;
@@ -109,19 +98,19 @@ body .cajasuperior{
 
 }
 
-.icon-whatsaap{
+.icon-whatsaap {
 
     width: 40px;
-    height: 40px; 
+    height: 40px;
     margin-right: 20px;
 
 }
 
 
-.icon-instagram{
+.icon-instagram {
 
     width: 40px;
-    height: 40px; 
+    height: 40px;
     margin-right: 20px;
 
 }
@@ -138,32 +127,28 @@ body .cajasuperior{
     color: #fff;
     border-radius: 50%;
     cursor: pointer;
-  }
-  
-  .colorr{
-    color:white !important;
-  }
-
-.BRAN{
-margin-left: 20px;
 }
-#plaUne{
-  background-color: #ccc;
+
+.colorr {
+    color: white !important;
+}
+
+.BRAN {
+    margin-left: 20px;
+}
+
+#plaUne {
+    background-color: #ccc;
 
 }
 
 
 #plaUne ul li span {
-  
-  margin: left 500px;
-  
-  float: right;
+
+    margin: left 500px;
+
+    float: right;
 }
-
- /* Estilos generales para el párrafo */
- 
-
-
 
 
 
@@ -172,13 +157,6 @@ margin-left: 20px;
 @media (min-width: 768px) {
     p {
         font-size: 16px;
-    
+
     }
 }
-
-/* para dispositivos moviles
-@media (min-width: 767px) {
-    header {
-        font-size: 17px;
-    }
-}*/
