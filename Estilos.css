@@ -3,13 +3,13 @@
 
 
 
-/* Estilos generales */
+/* Estilos generales 
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
    background-color: #817373;
-}
+}*/
 body h1{
     color:#ffffff
 }
@@ -75,6 +75,17 @@ body .cajasuperior{
 
     position: fixed;
     width: 100%;
+}
+
+@media (min-width: 768px) {
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+       background-color: #817373;
+    }
+
+
 }
 
 
@@ -145,4 +156,20 @@ margin-left: 20px;
   margin: left 500px;
   
   float: right;
+}
+
+ /* Estilos generales para el párrafo */
+ 
+
+
+
+
+
+
+/* Media Query para dispositivos con una pantalla de 768px o más grande (ordenadores) */
+@media (min-width: 768px) {
+    p {
+        font-size: 16px;
+    
+    }
 }
