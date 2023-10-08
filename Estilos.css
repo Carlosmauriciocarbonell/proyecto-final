@@ -174,7 +174,7 @@ margin-left: 20px;
     }
 }
 
-
+/* para dispositivos moviles*/
 @media (max-width: 767px) {
     header {
         font-size: 24px;
@@ -184,6 +184,6 @@ margin-left: 20px;
 /* Estilos para el texto dentro del header en ordenadores */
 @media (min-width: 768px) {
     header {
-        font-size: 16px;
+        font-size: 17px;
     }
 }
