@@ -68,11 +68,6 @@ ul {
 
 /*
 
-span{
-
-    
-    margin-left: 10px;
-}
 
 */
 
@@ -148,5 +143,6 @@ margin-left: 20px;
 #plaUne ul li span {
   
   margin: left 500px;
-  display: inline-block;
+  
+  float: right;
 }
