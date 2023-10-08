@@ -15,24 +15,15 @@ body h1{
 }
 
 body section Img{
-
+    padding-left: 10px;
+   
     width:400px;
     height:300px
 }
-    body section.Img2{
-        margin-left: 200px;
-        width: 200px;
-        height: 300px
-    }
+    
+    
 
-.ceci { /*
-    background-color:#1072f3b2;
-    text-align: center;
-    padding: 20px;
-
-
-    */
-
+.ceci {
     height: 400px;
     background-image: url(https://img.freepik.com/fotos-premium/taza-cafe-forma-corazon-humo-granos-cafe-saco-arpillera-sobre-fondo-madera-vieja_126277-302.jpg?w=740);
     background-size: cover;
@@ -65,7 +56,7 @@ section.seccion {
     margin: 0px;
      padding: 5px;
 
-   background-color: #f1f3f5;
+
     border: 01px solid #e2dada;
 }
 
@@ -147,6 +138,6 @@ body .cajasuperior{
 margin-left: 20px;
 }
 #plaUne{
+  background-color: #ccc;
 
-   background-color: #e5f1e3; 
 }
