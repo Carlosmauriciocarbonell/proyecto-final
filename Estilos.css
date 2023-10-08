@@ -22,7 +22,7 @@ body section Img{
 }
     
     
-@media (min-width: 768px) {
+@media (min-width: 600px) {
 .ceci {
     height: 400px;
     background-image: url(https://img.freepik.com/fotos-premium/taza-cafe-forma-corazon-humo-granos-cafe-saco-arpillera-sobre-fondo-madera-vieja_126277-302.jpg?w=740);
@@ -176,9 +176,9 @@ margin-left: 20px;
     }
 }
 
-/* para dispositivos moviles*/
+/* para dispositivos moviles
 @media (min-width: 767px) {
     header {
         font-size: 17px;
     }
-}
+}*/
