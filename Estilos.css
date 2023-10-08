@@ -22,7 +22,7 @@ body section Img{
 }
     
     
-
+@media (min-width: 768px) {
 .ceci {
     height: 400px;
     background-image: url(https://img.freepik.com/fotos-premium/taza-cafe-forma-corazon-humo-granos-cafe-saco-arpillera-sobre-fondo-madera-vieja_126277-302.jpg?w=740);
@@ -30,7 +30,7 @@ body section Img{
     color: rgb(240, 230, 230);
     background-position: center;
     background-color: rgba(0, 0, 0, 5);
-}
+}}
 
 nav ul.menu {
    
@@ -171,5 +171,19 @@ margin-left: 20px;
     p {
         font-size: 16px;
     
+    }
+}
+
+
+@media (max-width: 767px) {
+    header {
+        font-size: 24px;
+    }
+}
+
+/* Estilos para el texto dentro del header en ordenadores */
+@media (min-width: 768px) {
+    header {
+        font-size: 16px;
     }
 }
