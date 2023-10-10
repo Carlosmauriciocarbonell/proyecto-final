@@ -1,10 +1,4 @@
-/* Estilos generales 
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-   background-color: #817373;
-}*/
+
 body h1 {
     color: #ffffff
 }
@@ -44,7 +38,7 @@ nav ul.menu li {
 
 nav ul.menu li a {
     text-decoration: none;
-    color: #424141;
+    color: #d4c5c5;
     font-weight: bold;
 }
 
@@ -52,7 +46,7 @@ nav ul.menu li a {
 section.seccion {
     margin: 0px;
     padding: 5px;
-    border: 01px solid #e2dada;
+    border: 01px solid #c5d3e6;
 }
 
 
@@ -91,8 +85,8 @@ body .cajasuperior {
 
 .icon-facebook {
 
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     margin-right: 20px;
 
 
@@ -100,8 +94,8 @@ body .cajasuperior {
 
 .icon-whatsaap {
 
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     margin-right: 20px;
 
 }
@@ -109,8 +103,8 @@ body .cajasuperior {
 
 .icon-instagram {
 
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     margin-right: 20px;
 
 }
@@ -138,7 +132,7 @@ body .cajasuperior {
 }
 
 #plaUne {
-    background-color: #ccc;
+    background-color: #f8f9fa;
 
 }
 
@@ -159,4 +153,9 @@ body .cajasuperior {
         font-size: 16px;
 
     }
+}
+
+#footer {
+    background-color: #e0e4e9;
+    padding:0%
 }
