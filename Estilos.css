@@ -139,9 +139,14 @@ body .cajasuperior {
 
 #plaUne ul li span {
 
-    margin: left 500px;
+    margin-left: 0px;
 
     float: right;
+}
+
+.valor{
+margin-left: 15px;
+
 }
 
 
